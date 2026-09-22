@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Discord_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
     </a>
     <a href="https://forum.cfx.re/u/zynoxdev/summary" target="_blank">
-      <img src="https://img.shields.io/badge/Cfx.re_Forum-PROFILE-EA580C?style=for-the-badge&logo=fivem&logoColor=white" alt="Cfx Forum" />
+      <img src="https://img.shields.io/badge/Cfx.re_Forum-EA580C?style=for-the-badge&logo=fivem&logoColor=white" alt="Cfx Forum" />
     </a>
     <a href="https://www.youtube.com/@ZynoxDevelopment" target="_blank">
       <img src="https://img.shields.io/badge/YouTube_Showcase-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Showcase" />
@@ -42,6 +42,37 @@ We are a specialized FiveM development and engineering team focused on creating 
 * 📦 **Frameworks Supported:** Standalone, QBCore, Qbox, ESX Legacy, vRP & ox_lib.
 * 🛒 **Official Store:** [zynoxdev.tebex.store](https://zynoxdev.tebex.store/)
 * 💬 **Discord Support:** [discord.gg/2yuPTmsqjX](https://discord.gg/2yuPTmsqjX)
+
+---
+
+### 📊 Performance Benchmarks & Quality Standards
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h3>⚡ 0.00ms</h3>
+      <p><b>Idle Resmon Target</b><br /><sub>Zero CPU tick consumption</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛡️ 100% Secure</h3>
+      <p><b>CFX Escrow System</b><br /><sub>Verified asset protection</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🎮 60 FPS</h3>
+      <p><b>React & Vue NUI</b><br /><sub>Hardware-accelerated UI</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>💬 24/7 Live</h3>
+      <p><b>Discord Ticket Help</b><br /><sub>Dedicated client support</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-Production--Grade-blue?style=for-the-badge&logo=fivem&logoColor=white" alt="Production Grade" />
+  <img src="https://img.shields.io/badge/Codebase-Optimized_Lua_%26_JS-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua & JS" />
+  <img src="https://img.shields.io/badge/Architecture-Modular_%26_Scalable-00E5FF?style=for-the-badge&logo=speedtest&logoColor=black" alt="Modular" />
+</p>
 
 ---
 
@@ -126,15 +157,6 @@ We are a specialized FiveM development and engineering team focused on creating 
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zynoxdevelopment&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=00E5FF" alt="Zynox GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynoxdevelopment&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" alt="Top Languages" />
-</div>
 
 ---
 
